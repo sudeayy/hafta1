@@ -1,0 +1,2 @@
+Python ile basit bir print komutu yazıldı.  
+GitHub’a dosya yükleme işlemi denendi ve sistem test edildi.
