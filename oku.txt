@@ -1,0 +1,4 @@
+Bu hafta betik dilleri dersinde basit bir print komutuyla ekrana yazı yazdırmayı denedik.
+Git'e nasıl yükleneceğini öğrendik. 
+git init, git add, git commit ve git push gibi komutları kullanarak kodumuzu Git'e yüklemeyi denedik.
+Kodlarımızı paylaşmayı ve kaydetmeyi öğrendik. 
